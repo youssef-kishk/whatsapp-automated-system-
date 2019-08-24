@@ -6,4 +6,4 @@ A system built in python which takes the whatsapp user name, message required to
 
 
 ## **How to use**
-It's so simple just run the python script, follow the steps in the console and check your whhatsapp to notice the messages being sent.
+It's so simple just run the python script, follow the steps in the console then check your whatsapp to notice the messages being sent.
